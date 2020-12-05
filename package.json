@@ -5,6 +5,8 @@
     "author": "Thiakil",
     "bugs": "https://github.com/Thiakil/lwc-os-slds/issues",
     "dependencies": {
+        "@lwc/synthetic-shadow": "^1.8.7",
+        "@salesforce-ux/design-system": "^2.13.7",
         "compression": "^1.7.4",
         "express": "^4.17.1",
         "helmet": "^4.2.0"
